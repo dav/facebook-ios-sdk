@@ -15,3 +15,6 @@ test/UnitTest/build/
 *~
 *#
 .arcconfig
+*.DS_Store
+src/facebook-ios-sdk.xcodeproj/xcuserdata/
+
